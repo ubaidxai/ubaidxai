@@ -5,6 +5,7 @@
   <li>I'm an <b>AI Engineer</b>, based in Pakistan</li>
   <li>I Design, Build, and Automate whatever pops into my head.</li>
   <li>Ask me About Python, AI, Automation, ML, and Backend.</li>
+  <li>I'm also a Gold Medalist Mathematician, a teacher, and sometimes a footballer too.</li>
   <!-- <li>I got bunch of pinned projects, but my favourite is the "".</li> -->
   <!-- 🎓🌱⚡ -->
 </ul>
@@ -16,7 +17,6 @@
   <li>PostgreSQL, Redis, Git, Docker, AWS, ELK APM.</li>
 </ul>
 <!-- Say something about RAG      -->
-<!-- - I'm also a Mathematician, a teacher, and sometimes a footballer too. -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
          <a href="https://www.linkedin.com/in/ubaid-the-data-scientist">
