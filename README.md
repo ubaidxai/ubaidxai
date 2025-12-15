@@ -1,13 +1,22 @@
-<img src="https://github.com/ubaidxai/My-Resources/blob/fffa9c6b3a2d1b79dc6e6b475c1a3f442874fdfc/LinkedIn-Banner.png">
-<!-- <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> -->
-<h2> </h2>
-<h3 align="center"></h3>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<!-- <img src="https://github.com/ubaidxai/My-Resources/blob/fffa9c6b3a2d1b79dc6e6b475c1a3f442874fdfc/LinkedIn-Banner.png"> -->
 <h3 align="left">About Me:</h3>
-- 🎓 I'm an <b>AI Engineer<b/>, lean towards Agentic AI.<br/>
-- 🌱 Ask me about Python, AI, ML.<br/>
-- ⚡ I'm also a Mathematician, a teacher, and sometimes a footballer too.
-
-
+<ul>
+  <li>I'm an <b>AI Engineer</b>, based in Pakistan</li>
+  <li>I Design, Build, and Automate whatever pops into my head.</li>
+  <li>Ask me About Python, AI, Automation, ML, and Backend.</li>
+  <!-- <li>I got bunch of pinned projects, but my favourite is the "".</li> -->
+  <!-- 🎓🌱⚡ -->
+</ul>
+<h3 align="left">My Main Tech Stack:</h3>
+<ul>
+  <li>OpenAI Agents SDK, LangChain, Microsoft AutoGen, n8n.</li>
+  <li>Scikit-Learn, TensorFlow.</li>
+  <li>FastAPI, Django, Flask.</li>
+  <li>PostgreSQL, Redis, Git, Docker, AWS, ELK APM.</li>
+</ul>
+<!-- Say something about RAG      -->
+<!-- - I'm also a Mathematician, a teacher, and sometimes a footballer too. -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
          <a href="https://www.linkedin.com/in/ubaid-the-data-scientist">
@@ -15,19 +24,24 @@
          <a href="mailto:ubaidalikhan247@gmail.com">
          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
          </a>
-        <!--     
-         <a href="https://kaggle.com/ubaidalikhan" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="ubaidalikhan" height="20" width="20" />
-        </a>
-         <a href="">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Medium.svg" width="32" height="32"/>
-         -->
          </a>
          <a href="tel:+923156447006">
          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
          </a>
 </p>
 
+
+
+
+
+
+<!--     
+         <a href="https://kaggle.com/ubaidalikhan" target="blank">
+        <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="ubaidalikhan" height="20" width="20" />
+        </a>
+         <a href="">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Medium.svg" width="32" height="32"/>
+-->
 <!--
 ### My latest projects
 <a href="https://github.com/ubaidxai/deep-research-engine">
