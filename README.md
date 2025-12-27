@@ -2,8 +2,9 @@
 <!-- <img src="https://github.com/ubaidxai/My-Resources/blob/fffa9c6b3a2d1b79dc6e6b475c1a3f442874fdfc/LinkedIn-Banner.png"> -->
 <h3 align="left">About Me:</h3>
 <ul>
-  <li>I'm an <b>AI Engineer</b>, based in Pakistan</li>
+  <li>I'm an <b>AI Engineer</b>, based in Pakistan.</li>
   <li>I Design, Build, and Automate whatever pops into my head.</li>
+  <li>I've got a bunch of pinned projects below.</li>
   <li>Ask me About Python, AI, Automation, ML, and Backend.</li>
   <li>I'm also a Gold Medalist Mathematician, a teacher, and sometimes a footballer too.</li>
   <!-- <li>I got bunch of pinned projects, but my favourite is the "".</li> -->
@@ -11,7 +12,7 @@
 </ul>
 <h3 align="left">My Main Tech Stack:</h3>
 <ul>
-  <li>OpenAI Agents SDK, LangChain, Microsoft AutoGen, n8n.</li>
+  <li>OpenAI Agents SDK, LangGraph, LangChain, n8n.</li>
   <li>Scikit-Learn, TensorFlow.</li>
   <li>FastAPI, Django, Flask.</li>
   <li>PostgreSQL, Redis, Git, Docker, AWS, ELK APM.</li>
